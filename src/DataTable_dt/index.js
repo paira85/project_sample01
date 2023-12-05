@@ -98,4 +98,4 @@ export default function DataTable_dt() {
             </table>
         </div>
     )
-  }
+  }  
